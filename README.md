@@ -25,7 +25,7 @@ Alongside research, I work as a full-stack software engineer, designing and deve
 
 - **[Compression as a Lens on Computation](https://ali-hamedi.github.io/model-optimization/)** | Interactive research map connecting optimization, representation, and generalization.
 
-- **[Paper Explain with Documentation](https://github.com/ali-hamedi/PED)** | Deep learning implementations and experiments, from grokking to neural rendering.
+- **[DARTS — Distributed Adaptive Real-Time IoT Task Scheduling](https://github.com/ICPS-KNTU/Task-Scheduling-DARTS)** | Multi-agent reinforcement learning with differentiable decision trees for dynamic IoT edge scheduling.
 
 - **[SchEdge](https://github.com/ali-hamedi/SCHEDGE)** | Simulation framework for dynamic, multi-agent task scheduling in IoT edge environments.
 
@@ -36,3 +36,4 @@ Alongside research, I work as a full-stack software engineer, designing and deve
 - **2025** | [SchEdge: A Dynamic, Multi-agent, and Scalable Scheduling Simulator for IoT Edge](https://doi.org/10.1109/ICEE67339.2025.11213630) | *ICEE*
 
 - **2023** | [Enhancing Code Privacy: Java DataFlow Obfuscation](http://i4c.iust.ac.ir/UPL/Paper2023/accpapers/i4c2023-1103.pdf) | *I4C*
+
